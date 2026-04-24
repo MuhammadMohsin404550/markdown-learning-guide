@@ -191,7 +191,7 @@ Store images in the same folder as your Markdown file:
 ### Images from URLs
 
 ```markdown
-![Alt Text](https://example.com/image.jpg)
+![Alt Text]([https://example.com/image.jpg](https://media.licdn.com/dms/image/v2/D5603AQGeqr1MGZHJyA/profile-displayphoto-scale_200_200/B56Zrk_5QiLwAY-/0/1764778548643?e=1778716800&v=beta&t=UHaWXEDBDke8bhSh6TAaAk-RqafKUu9iMELqdEHty4Q))
 ```
 
 Note: Always provide descriptive alt text for accessibility.
